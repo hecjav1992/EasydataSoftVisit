@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaDeVisitaCampeon.Server", "SistemaDeVisitaCampeon.Server\SistemaDeVisitaCampeon.Server.csproj", "{2B69AA1A-6189-47E5-858A-77805E9F749F}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "sistemadevisitacampeon.client", "sistemadevisitacampeon.client\sistemadevisitacampeon.client.esproj", "{D48E44A0-8A55-4DE8-9716-7488E4BFDF4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B69AA1A-6189-47E5-858A-77805E9F749F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B69AA1A-6189-47E5-858A-77805E9F749F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B69AA1A-6189-47E5-858A-77805E9F749F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B69AA1A-6189-47E5-858A-77805E9F749F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D48E44A0-8A55-4DE8-9716-7488E4BFDF4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D48E44A0-8A55-4DE8-9716-7488E4BFDF4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D48E44A0-8A55-4DE8-9716-7488E4BFDF4D}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{D48E44A0-8A55-4DE8-9716-7488E4BFDF4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D48E44A0-8A55-4DE8-9716-7488E4BFDF4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D48E44A0-8A55-4DE8-9716-7488E4BFDF4D}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {027BB438-4769-48B3-BEB5-FF04CC8E27FD}
+	EndGlobalSection
+EndGlobal

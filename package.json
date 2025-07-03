@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@angular/google-maps": "^19.0.0",
+    "@angular/router": "^20.0.3"
+  }
+}
