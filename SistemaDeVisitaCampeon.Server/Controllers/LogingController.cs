@@ -24,10 +24,18 @@ namespace SistemaDeVisitaCampeon.Server.Controllers
         [HttpPost("login")]
         public IActionResult Login([FromBody] LoginRequest request)
         {
-            if (request.username == "admin" && request.password == "1234")
-            {
+            string User=request.username!;
+            string Password=request.password!;
 
-                return Ok(new { success = true, token = "123abc" });
+            switch ((User,Password)) {
+                case ("admin", "1234"):
+                    {
+                        return Ok(new { success = true, token = "123abc" });
+                    }
+                case ("admin2", "1234"):
+                    {
+                        return Ok(new { success = true, token = "123abd" });
+                    }
             }
 
             return Unauthorized(new { success = false, message = "Credenciales inválidas" });

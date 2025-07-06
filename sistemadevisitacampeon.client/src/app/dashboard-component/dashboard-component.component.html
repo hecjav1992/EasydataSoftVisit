@@ -1,4 +1,4 @@
-<div class="container-fluid bg-white">
+﻿<div class="container-fluid min-vh-100 bg-white">
   <div class="col-12 col-md-12">
   <div class="row">
     <div class="col-12 col-md-12 bg-white">
@@ -72,16 +72,19 @@
   </div>
   <hr />
   <div class="row">
-    <div class="col-md-4 col-md-4 d-block m-1">
-      <google-map 
-                  [center]="center"
-                  [zoom]="zoom">
+    <div class="col-md-5 col-md-5 d-block m-1">
+      <google-map [center]="center" [zoom]="zoom" height="500px" width="100%">
         @for (position of markerPositions; track position) {
-        <map-marker [position]="position" />
+        <map-marker [position]="position"
+                    #marker="mapMarker"
+                    (mapClick)="openInfoWindow(marker, position)" />
         }
+        <map-info-window>
+          {{ infoContent }}
+        </map-info-window>
       </google-map>
     </div>
-    <div class="col-2 col-md-2 m-1"></div>
+    <div class="col-1 col-md-1 m-1"></div>
     <div class="col-md-5 col-md-5 m-1">
       <div class="card shadow">
         <div class="card-header">

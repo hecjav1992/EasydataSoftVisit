@@ -31,7 +31,11 @@ export class LoginComponent implements OnInit {
         if (res.success) {
           console.log('Login exitoso, token:', res.token);
           this.router.navigate(['panel']);
-        } else {
+        }
+        if ( res.token=="123abd"){
+          this.router.navigate(['App']);
+        }
+        else {
           console.error('Error de login');
         }
       },

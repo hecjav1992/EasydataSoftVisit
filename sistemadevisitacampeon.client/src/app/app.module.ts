@@ -9,6 +9,7 @@ import { FormsModule } from '@angular/forms';
 import { RouterModule } from '@angular/router';
 import { routing } from '../app/routing';
 import { DashboardComponentComponent } from './dashboard-component/dashboard-component.component';
+import { AppMovilComponent } from './app-movil/app-movil.component';
 
 
 
@@ -16,7 +17,8 @@ import { DashboardComponentComponent } from './dashboard-component/dashboard-com
   declarations: [
     AppComponent,
     LoginComponent,
-    DashboardComponentComponent
+    DashboardComponentComponent,
+    AppMovilComponent
   ],
   imports: [
     BrowserModule,
