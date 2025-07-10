@@ -3,52 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Easy Data\\source\\repos\\SistemaDeVisitaCampeon\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D48E44A0-8A55-4DE8-9716-7488E4BFDF4D}|sistemadevisitacampeon.client\\sistemadevisitacampeon.client.esproj|c:\\users\\easy data\\source\\repos\\sistemadevisitacampeon\\sistemadevisitacampeon.client\\src\\app\\login\\login.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{D48E44A0-8A55-4DE8-9716-7488E4BFDF4D}|sistemadevisitacampeon.client\\sistemadevisitacampeon.client.esproj|solutionrelative:sistemadevisitacampeon.client\\src\\app\\login\\login.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B69AA1A-6189-47E5-858A-77805E9F749F}|SistemaDeVisitaCampeon.Server\\SistemaDeVisitaCampeon.Server.csproj|c:\\users\\easy data\\source\\repos\\sistemadevisitacampeon\\sistemadevisitacampeon.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B69AA1A-6189-47E5-858A-77805E9F749F}|SistemaDeVisitaCampeon.Server\\SistemaDeVisitaCampeon.Server.csproj|solutionrelative:sistemadevisitacampeon.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B69AA1A-6189-47E5-858A-77805E9F749F}|SistemaDeVisitaCampeon.Server\\SistemaDeVisitaCampeon.Server.csproj|c:\\users\\easy data\\source\\repos\\sistemadevisitacampeon\\sistemadevisitacampeon.server\\controllers\\loadmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B69AA1A-6189-47E5-858A-77805E9F749F}|SistemaDeVisitaCampeon.Server\\SistemaDeVisitaCampeon.Server.csproj|solutionrelative:sistemadevisitacampeon.server\\controllers\\loadmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D48E44A0-8A55-4DE8-9716-7488E4BFDF4D}|sistemadevisitacampeon.client\\sistemadevisitacampeon.client.esproj|c:\\users\\easy data\\source\\repos\\sistemadevisitacampeon\\sistemadevisitacampeon.client\\src\\app\\dashboard-component\\dashboard-component.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D48E44A0-8A55-4DE8-9716-7488E4BFDF4D}|sistemadevisitacampeon.client\\sistemadevisitacampeon.client.esproj|solutionrelative:sistemadevisitacampeon.client\\src\\app\\dashboard-component\\dashboard-component.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D48E44A0-8A55-4DE8-9716-7488E4BFDF4D}|sistemadevisitacampeon.client\\sistemadevisitacampeon.client.esproj|c:\\users\\easy data\\source\\repos\\sistemadevisitacampeon\\sistemadevisitacampeon.client\\src\\app\\app-movil\\app-movil.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D48E44A0-8A55-4DE8-9716-7488E4BFDF4D}|sistemadevisitacampeon.client\\sistemadevisitacampeon.client.esproj|solutionrelative:sistemadevisitacampeon.client\\src\\app\\app-movil\\app-movil.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D48E44A0-8A55-4DE8-9716-7488E4BFDF4D}|sistemadevisitacampeon.client\\sistemadevisitacampeon.client.esproj|c:\\users\\easy data\\source\\repos\\sistemadevisitacampeon\\sistemadevisitacampeon.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{D48E44A0-8A55-4DE8-9716-7488E4BFDF4D}|sistemadevisitacampeon.client\\sistemadevisitacampeon.client.esproj|solutionrelative:sistemadevisitacampeon.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D48E44A0-8A55-4DE8-9716-7488E4BFDF4D}|sistemadevisitacampeon.client\\sistemadevisitacampeon.client.esproj|c:\\users\\easy data\\source\\repos\\sistemadevisitacampeon\\sistemadevisitacampeon.client\\src\\app\\routing.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{D48E44A0-8A55-4DE8-9716-7488E4BFDF4D}|sistemadevisitacampeon.client\\sistemadevisitacampeon.client.esproj|solutionrelative:sistemadevisitacampeon.client\\src\\app\\routing.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D48E44A0-8A55-4DE8-9716-7488E4BFDF4D}|sistemadevisitacampeon.client\\sistemadevisitacampeon.client.esproj|c:\\users\\easy data\\source\\repos\\sistemadevisitacampeon\\sistemadevisitacampeon.client\\src\\app\\service\\login.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{D48E44A0-8A55-4DE8-9716-7488E4BFDF4D}|sistemadevisitacampeon.client\\sistemadevisitacampeon.client.esproj|solutionrelative:sistemadevisitacampeon.client\\src\\app\\service\\login.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D48E44A0-8A55-4DE8-9716-7488E4BFDF4D}|sistemadevisitacampeon.client\\sistemadevisitacampeon.client.esproj|c:\\users\\easy data\\source\\repos\\sistemadevisitacampeon\\sistemadevisitacampeon.client\\src\\app\\panel\\panel.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{D48E44A0-8A55-4DE8-9716-7488E4BFDF4D}|sistemadevisitacampeon.client\\sistemadevisitacampeon.client.esproj|solutionrelative:sistemadevisitacampeon.client\\src\\app\\panel\\panel.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D48E44A0-8A55-4DE8-9716-7488E4BFDF4D}|sistemadevisitacampeon.client\\sistemadevisitacampeon.client.esproj|c:\\users\\easy data\\source\\repos\\sistemadevisitacampeon\\sistemadevisitacampeon.client\\src\\app\\dashboard-component\\dashboard-component.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{D48E44A0-8A55-4DE8-9716-7488E4BFDF4D}|sistemadevisitacampeon.client\\sistemadevisitacampeon.client.esproj|solutionrelative:sistemadevisitacampeon.client\\src\\app\\dashboard-component\\dashboard-component.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D48E44A0-8A55-4DE8-9716-7488E4BFDF4D}|sistemadevisitacampeon.client\\sistemadevisitacampeon.client.esproj|c:\\users\\easy data\\source\\repos\\sistemadevisitacampeon\\sistemadevisitacampeon.client\\src\\app\\app-movil\\app-movil.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{D48E44A0-8A55-4DE8-9716-7488E4BFDF4D}|sistemadevisitacampeon.client\\sistemadevisitacampeon.client.esproj|solutionrelative:sistemadevisitacampeon.client\\src\\app\\app-movil\\app-movil.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B69AA1A-6189-47E5-858A-77805E9F749F}|SistemaDeVisitaCampeon.Server\\SistemaDeVisitaCampeon.Server.csproj|c:\\users\\easy data\\source\\repos\\sistemadevisitacampeon\\sistemadevisitacampeon.server\\controllers\\logingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B69AA1A-6189-47E5-858A-77805E9F749F}|SistemaDeVisitaCampeon.Server\\SistemaDeVisitaCampeon.Server.csproj|solutionrelative:sistemadevisitacampeon.server\\controllers\\logingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D48E44A0-8A55-4DE8-9716-7488E4BFDF4D}|sistemadevisitacampeon.client\\sistemadevisitacampeon.client.esproj|c:\\users\\easy data\\source\\repos\\sistemadevisitacampeon\\sistemadevisitacampeon.client\\src\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D48E44A0-8A55-4DE8-9716-7488E4BFDF4D}|sistemadevisitacampeon.client\\sistemadevisitacampeon.client.esproj|solutionrelative:sistemadevisitacampeon.client\\src\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -71,157 +31,26 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Easy Data\\source\\repos\\SistemaDeVisitaCampeon\\SistemaDeVisitaCampeon.Server\\Program.cs",
-              "RelativeDocumentMoniker": "SistemaDeVisitaCampeon.Server\\Program.cs",
-              "ToolTip": "C:\\Users\\Easy Data\\source\\repos\\SistemaDeVisitaCampeon\\SistemaDeVisitaCampeon.Server\\Program.cs",
-              "RelativeToolTip": "SistemaDeVisitaCampeon.Server\\Program.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-06T17:30:32.585Z",
-              "EditorCaption": ""
+              "Title": "styles.css",
+              "DocumentMoniker": "C:\\Users\\Easy Data\\source\\repos\\SistemaDeVisitaCampeon\\sistemadevisitacampeon.client\\src\\styles.css",
+              "RelativeDocumentMoniker": "sistemadevisitacampeon.client\\src\\styles.css",
+              "ToolTip": "C:\\Users\\Easy Data\\source\\repos\\SistemaDeVisitaCampeon\\sistemadevisitacampeon.client\\src\\styles.css",
+              "RelativeToolTip": "sistemadevisitacampeon.client\\src\\styles.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-07-10T14:47:26.569Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "dashboard-component.component.html",
-              "DocumentMoniker": "C:\\Users\\Easy Data\\source\\repos\\SistemaDeVisitaCampeon\\sistemadevisitacampeon.client\\src\\app\\dashboard-component\\dashboard-component.component.html",
-              "RelativeDocumentMoniker": "sistemadevisitacampeon.client\\src\\app\\dashboard-component\\dashboard-component.component.html",
-              "ToolTip": "C:\\Users\\Easy Data\\source\\repos\\SistemaDeVisitaCampeon\\sistemadevisitacampeon.client\\src\\app\\dashboard-component\\dashboard-component.component.html",
-              "RelativeToolTip": "sistemadevisitacampeon.client\\src\\app\\dashboard-component\\dashboard-component.component.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-07-06T17:12:17.864Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "app.module.ts",
-              "DocumentMoniker": "C:\\Users\\Easy Data\\source\\repos\\SistemaDeVisitaCampeon\\sistemadevisitacampeon.client\\src\\app\\app.module.ts",
-              "RelativeDocumentMoniker": "sistemadevisitacampeon.client\\src\\app\\app.module.ts",
-              "ToolTip": "C:\\Users\\Easy Data\\source\\repos\\SistemaDeVisitaCampeon\\sistemadevisitacampeon.client\\src\\app\\app.module.ts",
-              "RelativeToolTip": "sistemadevisitacampeon.client\\src\\app\\app.module.ts",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-07-06T17:11:36.809Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "app-movil.component.ts",
-              "DocumentMoniker": "C:\\Users\\Easy Data\\source\\repos\\SistemaDeVisitaCampeon\\sistemadevisitacampeon.client\\src\\app\\app-movil\\app-movil.component.ts",
-              "RelativeDocumentMoniker": "sistemadevisitacampeon.client\\src\\app\\app-movil\\app-movil.component.ts",
-              "ToolTip": "C:\\Users\\Easy Data\\source\\repos\\SistemaDeVisitaCampeon\\sistemadevisitacampeon.client\\src\\app\\app-movil\\app-movil.component.ts",
-              "RelativeToolTip": "sistemadevisitacampeon.client\\src\\app\\app-movil\\app-movil.component.ts",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-07-06T17:09:25.039Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "panel.component.ts",
-              "DocumentMoniker": "C:\\Users\\Easy Data\\source\\repos\\SistemaDeVisitaCampeon\\sistemadevisitacampeon.client\\src\\app\\panel\\panel.component.ts",
-              "RelativeDocumentMoniker": "sistemadevisitacampeon.client\\src\\app\\panel\\panel.component.ts",
-              "ToolTip": "C:\\Users\\Easy Data\\source\\repos\\SistemaDeVisitaCampeon\\sistemadevisitacampeon.client\\src\\app\\panel\\panel.component.ts",
-              "RelativeToolTip": "sistemadevisitacampeon.client\\src\\app\\panel\\panel.component.ts",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-07-06T17:09:19.575Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "login.service.ts",
-              "DocumentMoniker": "C:\\Users\\Easy Data\\source\\repos\\SistemaDeVisitaCampeon\\sistemadevisitacampeon.client\\src\\app\\service\\login.service.ts",
-              "RelativeDocumentMoniker": "sistemadevisitacampeon.client\\src\\app\\service\\login.service.ts",
-              "ToolTip": "C:\\Users\\Easy Data\\source\\repos\\SistemaDeVisitaCampeon\\sistemadevisitacampeon.client\\src\\app\\service\\login.service.ts",
-              "RelativeToolTip": "sistemadevisitacampeon.client\\src\\app\\service\\login.service.ts",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-07-06T17:09:18.072Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "routing.ts",
-              "DocumentMoniker": "C:\\Users\\Easy Data\\source\\repos\\SistemaDeVisitaCampeon\\sistemadevisitacampeon.client\\src\\app\\routing.ts",
-              "RelativeDocumentMoniker": "sistemadevisitacampeon.client\\src\\app\\routing.ts",
-              "ToolTip": "C:\\Users\\Easy Data\\source\\repos\\SistemaDeVisitaCampeon\\sistemadevisitacampeon.client\\src\\app\\routing.ts",
-              "RelativeToolTip": "sistemadevisitacampeon.client\\src\\app\\routing.ts",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-07-06T17:09:12.718Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "app-movil.component.html",
               "DocumentMoniker": "C:\\Users\\Easy Data\\source\\repos\\SistemaDeVisitaCampeon\\sistemadevisitacampeon.client\\src\\app\\app-movil\\app-movil.component.html",
               "RelativeDocumentMoniker": "sistemadevisitacampeon.client\\src\\app\\app-movil\\app-movil.component.html",
               "ToolTip": "C:\\Users\\Easy Data\\source\\repos\\SistemaDeVisitaCampeon\\sistemadevisitacampeon.client\\src\\app\\app-movil\\app-movil.component.html",
               "RelativeToolTip": "sistemadevisitacampeon.client\\src\\app\\app-movil\\app-movil.component.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-07-06T17:09:02.812Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "dashboard-component.component.ts",
-              "DocumentMoniker": "C:\\Users\\Easy Data\\source\\repos\\SistemaDeVisitaCampeon\\sistemadevisitacampeon.client\\src\\app\\dashboard-component\\dashboard-component.component.ts",
-              "RelativeDocumentMoniker": "sistemadevisitacampeon.client\\src\\app\\dashboard-component\\dashboard-component.component.ts",
-              "ToolTip": "C:\\Users\\Easy Data\\source\\repos\\SistemaDeVisitaCampeon\\sistemadevisitacampeon.client\\src\\app\\dashboard-component\\dashboard-component.component.ts",
-              "RelativeToolTip": "sistemadevisitacampeon.client\\src\\app\\dashboard-component\\dashboard-component.component.ts",
-              "ViewState": "AgIAABYAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-07-06T17:05:38.872Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "login.component.ts",
-              "DocumentMoniker": "C:\\Users\\Easy Data\\source\\repos\\SistemaDeVisitaCampeon\\sistemadevisitacampeon.client\\src\\app\\login\\login.component.ts",
-              "RelativeDocumentMoniker": "sistemadevisitacampeon.client\\src\\app\\login\\login.component.ts",
-              "ToolTip": "C:\\Users\\Easy Data\\source\\repos\\SistemaDeVisitaCampeon\\sistemadevisitacampeon.client\\src\\app\\login\\login.component.ts",
-              "RelativeToolTip": "sistemadevisitacampeon.client\\src\\app\\login\\login.component.ts",
-              "ViewState": "AgIAABAAAAAAAAAAAAA1wCIAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-07-06T17:01:09.224Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "LogingController.cs",
-              "DocumentMoniker": "C:\\Users\\Easy Data\\source\\repos\\SistemaDeVisitaCampeon\\SistemaDeVisitaCampeon.Server\\Controllers\\LogingController.cs",
-              "RelativeDocumentMoniker": "SistemaDeVisitaCampeon.Server\\Controllers\\LogingController.cs",
-              "ToolTip": "C:\\Users\\Easy Data\\source\\repos\\SistemaDeVisitaCampeon\\SistemaDeVisitaCampeon.Server\\Controllers\\LogingController.cs",
-              "RelativeToolTip": "SistemaDeVisitaCampeon.Server\\Controllers\\LogingController.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwCQAAABHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-06T16:50:39.69Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "LoadMap.cs",
-              "DocumentMoniker": "C:\\Users\\Easy Data\\source\\repos\\SistemaDeVisitaCampeon\\SistemaDeVisitaCampeon.Server\\Controllers\\LoadMap.cs",
-              "RelativeDocumentMoniker": "SistemaDeVisitaCampeon.Server\\Controllers\\LoadMap.cs",
-              "ToolTip": "C:\\Users\\Easy Data\\source\\repos\\SistemaDeVisitaCampeon\\SistemaDeVisitaCampeon.Server\\Controllers\\LoadMap.cs",
-              "RelativeToolTip": "SistemaDeVisitaCampeon.Server\\Controllers\\LoadMap.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-06T16:50:35.977Z",
+              "WhenOpened": "2025-07-09T20:15:59.151Z",
               "EditorCaption": ""
             }
           ]

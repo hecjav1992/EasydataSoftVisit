@@ -64,7 +64,7 @@ public class DistanceController : ControllerBase
            .GetProperty("duration_in_traffic")
            .GetProperty("text")
            .GetString();
-        return Ok(new { distancia, duracion,duraciontrfic });
+        return Ok(new {distancia, duracion,duraciontrfic });
 
     }
 }

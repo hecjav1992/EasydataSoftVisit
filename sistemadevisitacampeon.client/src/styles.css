@@ -15,7 +15,6 @@ html > body{
 /* Asegurar que app-root ocupe toda la pantalla */
 app-root {
   display: block;
-;
 }
 
 

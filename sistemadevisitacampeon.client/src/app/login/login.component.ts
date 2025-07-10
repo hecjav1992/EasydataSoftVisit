@@ -32,7 +32,7 @@ export class LoginComponent implements OnInit {
           console.log('Login exitoso, token:', res.token);
           this.router.navigate(['panel']);
         }
-        if ( res.token=="123abd"){
+        if (res.success && res.token=="123abd" ){
           this.router.navigate(['App']);
         }
         else {
