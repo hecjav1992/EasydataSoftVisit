@@ -24,9 +24,10 @@
     "@angular/router": "^19.2.14",
     "@googlemaps/js-api-loader": "^1.16.10",
     "jest-editor-support": "*",
+    "parse5": "^8.0.0",
     "run-script-os": "*",
-    "rxjs": "~7.8.0",
-    "sweetalert2": "^11.22.0",
+    "rxjs": "^7.5.7",
+    "sweetalert2": "^11.22.2",
     "tslib": "^2.3.0",
     "zone.js": "~0.15.0"
   },
