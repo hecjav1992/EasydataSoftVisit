@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Easy Data\\source\\repos\\SistemaDeVisitaCampeon\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D48E44A0-8A55-4DE8-9716-7488E4BFDF4D}|sistemadevisitacampeon.client\\sistemadevisitacampeon.client.esproj|c:\\users\\easy data\\source\\repos\\sistemadevisitacampeon\\sistemadevisitacampeon.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D48E44A0-8A55-4DE8-9716-7488E4BFDF4D}|sistemadevisitacampeon.client\\sistemadevisitacampeon.client.esproj|solutionrelative:sistemadevisitacampeon.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D48E44A0-8A55-4DE8-9716-7488E4BFDF4D}|sistemadevisitacampeon.client\\sistemadevisitacampeon.client.esproj|c:\\users\\easy data\\source\\repos\\sistemadevisitacampeon\\sistemadevisitacampeon.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D48E44A0-8A55-4DE8-9716-7488E4BFDF4D}|sistemadevisitacampeon.client\\sistemadevisitacampeon.client.esproj|solutionrelative:sistemadevisitacampeon.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D48E44A0-8A55-4DE8-9716-7488E4BFDF4D}|sistemadevisitacampeon.client\\sistemadevisitacampeon.client.esproj|c:\\users\\easy data\\source\\repos\\sistemadevisitacampeon\\sistemadevisitacampeon.client\\src\\app\\dashboard-component\\dashboard-component.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{D48E44A0-8A55-4DE8-9716-7488E4BFDF4D}|sistemadevisitacampeon.client\\sistemadevisitacampeon.client.esproj|solutionrelative:sistemadevisitacampeon.client\\src\\app\\dashboard-component\\dashboard-component.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
@@ -75,19 +83,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\Easy Data\\source\\repos\\SistemaDeVisitaCampeon\\sistemadevisitacampeon.client\\src\\index.html",
+              "RelativeDocumentMoniker": "sistemadevisitacampeon.client\\src\\index.html",
+              "ToolTip": "C:\\Users\\Easy Data\\source\\repos\\SistemaDeVisitaCampeon\\sistemadevisitacampeon.client\\src\\index.html",
+              "RelativeToolTip": "sistemadevisitacampeon.client\\src\\index.html",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-07-28T14:13:46.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "app.component.html",
+              "DocumentMoniker": "C:\\Users\\Easy Data\\source\\repos\\SistemaDeVisitaCampeon\\sistemadevisitacampeon.client\\src\\app\\app.component.html",
+              "RelativeDocumentMoniker": "sistemadevisitacampeon.client\\src\\app\\app.component.html",
+              "ToolTip": "C:\\Users\\Easy Data\\source\\repos\\SistemaDeVisitaCampeon\\sistemadevisitacampeon.client\\src\\app\\app.component.html",
+              "RelativeToolTip": "sistemadevisitacampeon.client\\src\\app\\app.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-07-28T14:13:40.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "dashboard-component.component.ts",
               "DocumentMoniker": "C:\\Users\\Easy Data\\source\\repos\\SistemaDeVisitaCampeon\\sistemadevisitacampeon.client\\src\\app\\dashboard-component\\dashboard-component.component.ts",
               "RelativeDocumentMoniker": "sistemadevisitacampeon.client\\src\\app\\dashboard-component\\dashboard-component.component.ts",
               "ToolTip": "C:\\Users\\Easy Data\\source\\repos\\SistemaDeVisitaCampeon\\sistemadevisitacampeon.client\\src\\app\\dashboard-component\\dashboard-component.component.ts",
               "RelativeToolTip": "sistemadevisitacampeon.client\\src\\app\\dashboard-component\\dashboard-component.component.ts",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAAIAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
               "WhenOpened": "2025-07-27T18:01:14.745Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "login.component.html",
               "DocumentMoniker": "C:\\Users\\Easy Data\\source\\repos\\SistemaDeVisitaCampeon\\sistemadevisitacampeon.client\\src\\app\\login\\login.component.html",
               "RelativeDocumentMoniker": "sistemadevisitacampeon.client\\src\\app\\login\\login.component.html",
@@ -99,7 +133,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "login.component.ts",
               "DocumentMoniker": "C:\\Users\\Easy Data\\source\\repos\\SistemaDeVisitaCampeon\\sistemadevisitacampeon.client\\src\\app\\login\\login.component.ts",
               "RelativeDocumentMoniker": "sistemadevisitacampeon.client\\src\\app\\login\\login.component.ts",
@@ -111,7 +145,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "karma.conf.js",
               "DocumentMoniker": "C:\\Users\\Easy Data\\source\\repos\\SistemaDeVisitaCampeon\\sistemadevisitacampeon.client\\karma.conf.js",
               "RelativeDocumentMoniker": "sistemadevisitacampeon.client\\karma.conf.js",
@@ -123,7 +157,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "package.json",
               "DocumentMoniker": "C:\\Users\\Easy Data\\source\\repos\\SistemaDeVisitaCampeon\\sistemadevisitacampeon.client\\package.json",
               "RelativeDocumentMoniker": "sistemadevisitacampeon.client\\package.json",
@@ -135,7 +169,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "tsconfig.json",
               "DocumentMoniker": "C:\\Users\\Easy Data\\source\\repos\\SistemaDeVisitaCampeon\\sistemadevisitacampeon.client\\tsconfig.json",
               "RelativeDocumentMoniker": "sistemadevisitacampeon.client\\tsconfig.json",
@@ -147,7 +181,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "angular.json",
               "DocumentMoniker": "C:\\Users\\Easy Data\\source\\repos\\SistemaDeVisitaCampeon\\sistemadevisitacampeon.client\\angular.json",
               "RelativeDocumentMoniker": "sistemadevisitacampeon.client\\angular.json",
@@ -159,7 +193,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "styles.css",
               "DocumentMoniker": "C:\\Users\\Easy Data\\source\\repos\\SistemaDeVisitaCampeon\\sistemadevisitacampeon.client\\src\\styles.css",
               "RelativeDocumentMoniker": "sistemadevisitacampeon.client\\src\\styles.css",
@@ -171,7 +205,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "app.module.ts",
               "DocumentMoniker": "C:\\Users\\Easy Data\\source\\repos\\SistemaDeVisitaCampeon\\sistemadevisitacampeon.client\\src\\app\\app.module.ts",
               "RelativeDocumentMoniker": "sistemadevisitacampeon.client\\src\\app\\app.module.ts",
@@ -183,7 +217,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "routing.ts",
               "DocumentMoniker": "C:\\Users\\Easy Data\\source\\repos\\SistemaDeVisitaCampeon\\sistemadevisitacampeon.client\\src\\app\\routing.ts",
               "RelativeDocumentMoniker": "sistemadevisitacampeon.client\\src\\app\\routing.ts",
@@ -195,7 +229,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "panel.component.css",
               "DocumentMoniker": "C:\\Users\\Easy Data\\source\\repos\\SistemaDeVisitaCampeon\\sistemadevisitacampeon.client\\src\\app\\panel\\panel.component.css",
               "RelativeDocumentMoniker": "sistemadevisitacampeon.client\\src\\app\\panel\\panel.component.css",
@@ -207,7 +241,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "dashboard-component.component.css",
               "DocumentMoniker": "C:\\Users\\Easy Data\\source\\repos\\SistemaDeVisitaCampeon\\sistemadevisitacampeon.client\\src\\app\\dashboard-component\\dashboard-component.component.css",
               "RelativeDocumentMoniker": "sistemadevisitacampeon.client\\src\\app\\dashboard-component\\dashboard-component.component.css",
@@ -219,7 +253,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "dashboard-component.component.html",
               "DocumentMoniker": "C:\\Users\\Easy Data\\source\\repos\\SistemaDeVisitaCampeon\\sistemadevisitacampeon.client\\src\\app\\dashboard-component\\dashboard-component.component.html",
               "RelativeDocumentMoniker": "sistemadevisitacampeon.client\\src\\app\\dashboard-component\\dashboard-component.component.html",
